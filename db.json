@@ -1,0 +1,563 @@
+{
+  "imgh":[
+    {
+      "id":1,
+      "name":"https://www.filimo.com/assets/web/ui/img-KkMyloVxESxWfRCojDxkA/filimo/fa-filimo-dark-logo.svg" 
+    }
+  ],
+    "menu":[
+        {
+            "id":1,
+            "name":"فیلیمو",
+            "href":"#"
+        },
+        {
+            "id":2,
+            "name":"فیلیموتور",
+            "href":"#"
+        }, {
+            "id":3,
+            "name":"فیلیمومدرسه",
+            "href":"#"
+        }, 
+        {
+            "id":4,
+            "name":"جستجو",
+            "href":"#"
+        }
+    ],
+     "pay":[
+        {
+    "id":1,
+    "name":"خرید اشتراک"
+   }
+    ],
+   "login":[
+    {
+    "id":1,
+    "name":"ورود"
+   }
+    ],
+    "swiper":[
+        {
+          "id":1,
+          "img": "https://static.cdn.asset.filimo.com/ct/cb9ua_desktop_1_v1.jpeg?width=1920&quality=85&sharpen=50&secret=YXBI0lvSlJbTm64eoMy94g" 
+        },
+        {
+            "id":2,
+            "img": "https://static.cdn.asset.filimo.com/ct/f301n_desktop_1_v7.jpeg?width=1920&quality=85&sharpen=50&secret=EELlcmWyZj_7zKCwYYTWiQ" 
+          },
+          {
+            "id":3,
+            "img": "https://static.cdn.asset.filimo.com/ct/n48zk_desktop_1_v2.jpeg?width=1920&quality=85&sharpen=50&secret=Vj9kJ_tPMgTkhp_g9iUO8Q" 
+          },
+          {
+            "id":4,
+            "img": "https://static.cdn.asset.filimo.com/ct/wl60k_desktop_1_v1.jpeg?width=1920&quality=85&sharpen=50&secret=u_YFvzS7ug4w6njwi-yENg" 
+          },
+          {
+            "id":5,
+            "img": "https://static.cdn.asset.filimo.com/ct/mad_desktop_1_v7.jpeg?width=1920&quality=85&sharpen=50&secret=FQ0j0gbOXEmUK8-I9Tt5bg" 
+          },
+          {
+            "id":6,
+            "img": "https://static.cdn.asset.filimo.com/ct/hmtks_desktop_1_v1.jpeg?width=1920&quality=85&sharpen=50&secret=qqY1fvv8mdR-qJWAciLUeQ" 
+          },
+          {
+            "id":7,
+            "img": "https://static.cdn.asset.filimo.com/ct/ek0ap_desktop_1_v3.jpeg?width=1920&quality=85&sharpen=50&secret=KaINP0IDoHfBABKNQBEswg" 
+          }, 
+           {
+            "id":8,
+            "img": "https://static.cdn.asset.filimo.com/ct/bxkm8_desktop_1_v1.jpeg?width=1920&quality=85&sharpen=50&secret=K3lphNCxi2qrINexQ1HbXg" 
+          },
+           {
+            "id":9,
+            "img": "https://static.cdn.asset.filimo.com/ct/150681_desktop_1_v1.jpeg?width=1920&quality=85&sharpen=50&secret=hwGAx0JA3nQHzlkr9H4u6Q" 
+          },
+          {
+            "id":10,
+            "img": "https://static.cdn.asset.filimo.com/ct/382ky_desktop_1_v3.jpeg?width=1920&quality=85&sharpen=50&secret=8yuwzUiNO97znJqc42CEdQ" 
+          },
+          {
+            "id":11,
+            "img": "https://static.cdn.asset.filimo.com/ct/80d4s_desktop_1_v1.jpeg?width=1920&quality=85&sharpen=50&secret=PXmVmlGUmhdAbeJKwDUY8Q" 
+          },
+           {
+            "id":12,
+            "img": "https://static.cdn.asset.filimo.com/ct/39tz7_desktop_1_v1.jpeg?width=1920&quality=85&sharpen=50&secret=BAMxzz1-L5mGuqATfy-NLA" 
+          }
+    ],
+    "sliderh2":[
+        {
+            "id":1,
+            "name":"با فیلیمو بی وقفه فیلم ببین"
+        
+        }
+    ],
+    "sliderh1":[
+    {
+        "id":1,
+        "name":"کنترل همیشه در دست توست!"
+    }
+  ],
+  "ul":[
+    {
+      "id":1,
+      "name":"هزار اپیزود فیلم و سریال برای تماشا دای",
+      "href":"#"
+  },
+  {
+      "id":2,
+      "name":"می تونی دانلود کنی بعد بدون اینترنت تماشا کنی",
+      "href":"#"
+  }, {
+      "id":3,
+      "name":" می تونی یک عضو‍‍‍‍‍‍‍‍‍ مخصوص تماشای کودک باشی",
+      "href":"#"
+  }
+  ],
+  "sp":[
+    {
+    "id":1,
+    "name":"خرید اشتراک و تماشا"
+   }
+    ],
+    "p":[
+      {
+        "id":1,
+        "name":"تخفیف ویژه برای کاربران جدید"
+      }
+    ],
+    "img":[
+      {
+        "id":1,
+        "im":"https://www.filimo.com/assets/web/ui/img-UtlevNfpd9lr4KtACKJDLg/campaigns/nosub-v_new/deviceYaghi.png" 
+      }
+    ],
+    "h1":[
+      {
+        "id":1,
+        "name":" تماشای فیلیمو با همه دستگاه‌ها"
+      }
+    ],
+    "p1":[
+      {
+        "id":1,
+        "name":"می‌توانید فیلیمو را به صورت هم‌زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ‌تاپ، تلویزیون و... تماشا کنید."
+      }
+    ],
+   "span":[
+      {
+        "id":1,
+        "name":"کامپیوتر و لپ‌تاپ",
+        "span":"windows PC - MacOS - Chorom OS"
+    },
+    {
+        "id":2,
+        "name":"موبایل و تبلت",
+        "span":"Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets"
+    }, 
+    {
+      "id":3,
+      "name":"کنسول‌های بازی (Browser)",
+      "span":"Xbox Series S - Xbox Seris X - PS5 - PS4"
+  }
+    ],  
+    "btn":[
+      {
+      "id":1,
+      "name":"خرید اشتراک و تماشا"
+     }
+      ],
+      "h":[
+        {
+          "id":1,
+          "name":"چطور با تلویزیون، فیلیمو تماشا کنم؟"
+        }
+      ],
+      "p2":[
+        {
+          "id":1,
+          "name":"ما برای راحتی شما و تماشای فیلیمو روی تلویزیون‌های مختلف 6 روش را فراهم کردیم. هرکدام از این 6 روش یک ویدیو آموزشی دارند که می‌توانید از لینک زیر، آن‌ها را تماشا کنید و روشی که با تلویزیون شما سازگار است را انتخاب کنید."
+        }
+      ],
+      "ull2":[
+      {
+        "id":1,
+        "name":"تلویزیون",
+        "span":"Amazon Fire TV - LG TVs - Chrome Cast - Apple TV - Android TV devices - Samsung"
+    },
+    {
+        "id":2,
+        "name":"اندروید تیوی",
+        "span":"NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom"
+    }
+  ],
+  "btn2":[
+    {
+    "id":1,
+    "name":"ویدیوهای آموزشی تماشا با تلویزیون > "
+   }
+    ],
+    "img2":[
+      {
+        "id":1,
+        "im":"https://www.filimo.com/assets/web/ui/img-UtlevNfpd9lr4KtACKJDLg/campaigns/nosub-v_new/TVBG.png" 
+      }
+    ],
+    "hall":[
+      {
+       "name":"محتواهای رایگان"
+      }
+    ],
+    "all":[
+      {
+        "id":1,
+        "img":"https://static.cdn.asset.filimo.com/flmt/mov_srl_11933_1-b.jpg?width=165&quality=85&sharpen=80&secret=70IQWQBeKCWalGzxIFrXww",
+        "name":"پایتخت"
+      }, {
+        "id":2,
+        "img":"https://static.cdn.asset.filimo.com/flmt/mov_639_995-b.jpg?width=165&quality=85&sharpen=80&secret=rCOQHoZqc3pHUbQY1o8Fgw",
+        "name":"عقرب"
+      },
+      {
+        "id":3,
+        "img":"https://static.cdn.asset.filimo.com/flmt/mov_srl_41017_932-b.jpg?width=165&quality=85&sharpen=80&secret=UyEL2Mvhfiza38e19N9--Q",
+        "name":"ملکه گدایان"
+      },
+      {
+        "id":4,
+        "img":"https://static.cdn.asset.filimo.com/flmt/mov_6121_429-b.jpg?width=165&quality=85&sharpen=80&secret=6moWZ9if_QmGJp7VyaiaFg",
+        "name":"ویرانگر"
+      },
+      {
+        "id":5,
+        "img":"https://static.cdn.asset.filimo.com/flmt/mov_16676_331-b.jpg?width=165&quality=85&sharpen=80&secret=hcs24qUkXJUq4Qua48ru-Q",
+        "name":"شاهرگ"
+      },
+      {
+        "id":6,
+        "img":"https://static.cdn.asset.filimo.com/flmt/mov_srl_12645_1-b.jpg?width=165&quality=85&sharpen=80&secret=-VcJQatmi2-4Tx3WiJrdwQ",
+        "name":"بالشها"
+      }
+    ],
+    "wimg":[
+      {
+        "id":1,
+        "img":"https://www.filimo.com/assets/web/ui/img-UtlevNfpd9lr4KtACKJDLg/campaigns/nosub-v_new/bg-kids.png" 
+      }
+    ],
+    "hw":[
+      {
+        "id":1,
+        "name":"دنیایی متنوع از فیلم و کارتون‌های کودکانه"
+      }
+    ],
+    "pw":[
+      {
+        "id":1,
+        "name":"ساخت فیلیمو کودک این امکان را می‌دهد که با انتخاب سن فرزندتان، یک فضای امن برای تماشای کودک بسازید؛ یعنی محتوای مخصوص سن خودش را ببیند و به بقیه فیلم و سریال‌ها دسترسی نداشته‌باشد."
+      }
+    ],
+    "bw":[
+      {
+        "id":1,
+        "name":" فیلیمو کودک بساز"
+      },
+      {
+        "id":2,
+        "name":" تماشای فیلیمو کودک"
+      }
+    ],
+    "img3":[
+      {
+        "id":1,
+        "name":"https://www.filimo.com/assets/web/ui/img-UtlevNfpd9lr4KtACKJDLg/campaigns/nosub-v_new/bg-cinama.png"
+      }
+    ],
+    "h3all":[
+      {
+        "id":1,
+        "name":"سینما آنلاین فیلیمو"
+      }
+    ],
+    "ulli3":[
+      {
+        "id":1,
+        "name":"فیلم‌های روز سینمای ایران "
+      },
+      {
+        "id":2,
+        "name":"۸ ساعت زمان برای مشاهده فیلم در هر کجا"
+      },
+      {
+        "id":3,
+        "name":"خرید یک بلیت برای تماشا همراه با همه خانواده"
+      }
+    ],
+    "alldimg":[
+      {
+        "id":1,
+        "name":"https://static.cdn.asset.filimo.com/flmt/mov_150756_189561.jpg?width=165&quality=85&sharpen=80&secret=EjXDsLSbDax7yyNjkBiLgg"
+      }
+    ],
+    "alldh3":[
+      {
+        "id":1,
+        "name":"نیلگون"
+      }
+    ],
+    "alldp1":[
+      {
+        "id":1,
+        "name":"کارگردان:null"
+      }
+    ],
+    "alldp2":[
+      {
+        "id":1,
+        "name":"خانوادگی"
+      }
+    ],
+    "alldbut":[
+      {
+        "id":1,
+        "name":"خرید بلیط"
+      }
+    ],
+    "alldimg2":[
+      {
+        "id":1,
+        "name":"https://static.cdn.asset.filimo.com/flmt/mov_150478_188543.jpg?width=165&quality=85&sharpen=80&secret=QZweO_3XxRFiyLCstlmjGw"
+      }
+    ],
+    "alldh32":[
+      {
+        "id":1,
+        "name":"یادگار جنوب"
+      }
+    ],
+    "alldp12":[
+      {
+        "id":1,
+        "name":"کارگردان:null"
+      }
+    ],
+    "alldp22":[
+      {
+        "id":1,
+        "name":"خانوادگی"
+      }
+    ],
+    "alldbut2":[
+      {
+        "id":1,
+        "name":"خرید بلیط"
+      }
+    ],
+    "h1a":[
+      {
+        "id":1,
+        "name":"سوالات متداول"
+      }
+    ],
+    "spana":[
+      {
+        "id":1,
+        "name":"سوال شایع دیگر کابران شاید برای شما پیش امده باشد"
+      }
+    ],
+    "acar1":[
+      {
+        "id":1,
+        "name":"آیا می‌توانم فیلم‌های موجود در فیلیمو را دانلود کنم؟",
+        "href":"بله، شما می‌توانید همه فیلم‌ و سریال‌های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان‌هایی که اینترنت ندارید یا در سفر، هواپیما و قطار آ‌ن‌ها را تماشا کنید. برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می‌توانید اقدام‌کنید. برای جزییات بیشتر می‌توانید فیلم‌های آموزشی مربوط به دانلود از طریق سایت و دانلود از طریق اپلیکیشن را تماشا کنید."
+      }
+    ],
+    "acar2":[
+      {
+        "id":1,
+        "name":"آیا فیلیمو برای خارج از ایران در دسترس است؟",
+        "href":"خیر. درحال حاضر تماشای فیلیمو فقط در داخل کشور فعال است و امکان تماشا برای افراد خارج از کشور فعال نیست."
+      }
+    ],
+    "acar3":[
+      {
+        "id":1,
+        "name":"آیا برای تماشای فیلم‌های اکران آنلاین، باید اشتراک بخرم؟",
+        "href":"تماشای فیلم‌های اکران آنلاین مانند تماشا در سینمای واقعی است؛ یعنی برای دیدن هر فیلم که در اکران آنلاین است باید بلیت تهیه کنید و به جای رفتن به سالن سینما، 8 ساعت فرصت دارید که آن فیلم را از داخل خانه تماشا کنید."
+      }
+    ],
+    "acar4":[
+      {
+        "id":1,
+        "name":"از کجا می‌توانم نرم‌افزار اندروید یا iOS فیلیمو را دانلود کنم؟",
+        "href":"برای نصب نرم‌افزار اندرویدی فیلیمو می‌توانید ازطریق کافه بازار یا مایکت اقدام به دانلود کنید. یا می‌توانید روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار اندروید) برای دانلود نرم‌افزار iOS فیلیمو نیز کافیست روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار iOS)"
+      }
+    ],
+    "name1":[
+      {
+        "id":1,
+        "name":"RAMTIN"
+      }
+    ],
+    "name2":[
+      {
+        "id":1,
+        "name":"MANIdriver"
+      }
+    ],
+    "name3":[
+      {
+        "id":1,
+        "name":"F.A"
+      }
+    ],
+    "ask1":[
+      {
+        "id":1,
+        "name":"خیلی فیلم و سریال های قشنگی داره"
+      }
+    ],
+    "ask2":[
+      {
+        "id":1,
+        "name":"فیلیمو راضیم ازت واقعا بهترینی سریال ها و فیلم ها را با بهترین کیفیت میشه در فیلیمو دید"
+      }
+    ],
+    "ask3":[
+      {
+        "id":1,
+        "name":"خیلی خوبه تازه فیلم های ۲۰۲۱ هم دوبله داره"
+      }
+    ],
+    "imgf":[
+      {
+        "id":1,
+        "name":"https://www.filimo.com/assets/web/ui/img-KkMyloVxESxWfRCojDxkA/campaigns/nosub-v_new/logo_text.png"
+      }
+
+    ],
+    "ulf":[
+      {
+      "id":1,
+      "name":"هزاران فیلم و سریال خارجی (دوبله و زیرنویس)"
+      },
+      {
+        "id":2,
+        "name":"هزاران فیلم و سریال خارجی (دوبله و زیرنویس)"
+        },
+        {
+          "id":3,
+          "name":"پشتیبانی 24 ساعته برای راهنمایی شما"
+          }
+    ],
+    "butf":[
+      {
+        "id":1,
+        "name":"خرید اشتراک و تماشا"
+      }
+
+    ],
+    "hbh":[
+      {
+        "id":1,
+        "name":"محبوب‌ترین‌های فیلیمو"
+      }
+    ],
+    "hbb":[
+      {
+        "id":1,
+        "name":"فیلم"
+      },
+      {
+        "id":2,
+        "name":"سریال"
+      }
+    ],
+    "imgff":[
+      {
+        "id":1,
+        "name":"https://static.cdn.asset.filimo.com/flmt/mov_150890_216745.jpg?width=165&quality=85&sharpen=80&secret=a435gK0nfN0rsu691n_FxA"
+      },
+      {
+        "id":2,
+        "name":"https://static.cdn.asset.filimo.com/flmt/mov_150745_216405.jpg?width=165&quality=85&sharpen=80&secret=T0tLV73U3cPDaz3RNS36Vg"
+      },
+      {
+        "id":3,
+        "name":"https://static.cdn.asset.filimo.com/flmt/mov_150886_216559.jpg?width=165&quality=85&sharpen=80&secret=ipyTQH3aS04JPrRKJGJSBw"
+      },
+      {
+        "id":4,
+        "name":"https://static.cdn.asset.filimo.com/flmt/mov_150889_216671.jpg?width=165&quality=85&sharpen=80&secret=NC2YpHGBUY3wj_Pg0VrsLw"
+      },
+      {
+        "id":5,
+        "name":"https://static.cdn.asset.filimo.com/flmt/mov_150887_216597.jpg?width=165&quality=85&sharpen=80&secret=T3CUJBFNJ4Pc5hwpmfUiWg"
+      },
+      {
+        "id":6,
+        "name":"https://static.cdn.asset.filimo.com/flmt/mov_150888_216669.jpg?width=165&quality=85&sharpen=80&secret=xGqboFwb2p35bS9dkIF8UQ"
+      }
+    ],
+    "imgb":[
+      {
+        "id":1,
+        "name":"https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_150890_460.jpg?width=1920&quality=80&sharpen=50&secret=GkMbBaMCF9JhBn4QpB4xFg"
+      }
+    ],
+    "hbp":[
+      {
+        "id":1,
+        "name":"جوکر 2"
+      }
+    ],
+    "pbp":[
+      {
+        "id":1,
+        "name":"کارگردان: احسان علیخانی"
+      }
+    ],
+    "bottompp":[
+      {
+        "id":1,
+        "name":"ریلیتی شو"
+      },
+      {
+        "id":2,
+        "name":"کمدی"
+      }
+    ],
+    "pb":[
+      {
+        "id":1,
+        "name":"در این قسمت شاهرخ استخری و حمید لولایی جوکرتایم اجرا می کنن. همه تبدیل به اعضای بدن میشن و رضا شفیعی جم هم با یه کاراکتر جدید برمی گرده."
+      }
+    ],
+    "imgp":[
+      {
+        "id":1,
+        "name":"https://static.cdn.asset.filimo.com/flmt/mov_logo_147471_422.png?width=400&quality=85&secret=FMgCE2mroMFjVb21WIYa-g" 
+      }
+    ],
+    "joker1":[
+      {
+        "id":1,
+        "name":"https://static.cdn.asset.filimo.com/flmt/mov_147472_181089.jpg?width=220&quality=85&sharpen=80&secret=2iMAktcZuQMeZ6nc3StrTA"
+      }
+    ],
+    "joker2":[
+      {
+        "id":2,
+        "name":"https://static.cdn.asset.filimo.com/flmt/mov_147711_181090.jpg?width=220&quality=85&sharpen=80&secret=nS6tJIXIUyMytbTgHxTXWQ"
+      }
+    ],
+    "joker3":[
+      {
+        "id":2,
+        "name":"https://static.cdn.asset.filimo.com/flmt/mov_148067_182047.jpg?width=220&quality=85&sharpen=80&secret=xkv6S_FR89wWQZ402_oetg" 
+      }  
+    ]
+}
